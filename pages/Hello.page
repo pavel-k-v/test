@@ -1,0 +1,5 @@
+<apex:page controller="HelloController" >
+    
+    <apex:outputText value="{! helloStr }"></apex:outputText>
+    
+</apex:page>
